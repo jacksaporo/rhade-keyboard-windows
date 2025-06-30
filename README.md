@@ -33,4 +33,4 @@ Windows keyboard software for typing Rhade (Ê Đê) language characters.
 - Email: contact@montagnards.ai
 
 ## Related
-- [Rhade IPA Chart](https://github.com/jacksaporo/rhade-ipa-chart)
+- [Rhade IPA Chart](https://github.com/yphichdok/rhade-ipa-chart)
