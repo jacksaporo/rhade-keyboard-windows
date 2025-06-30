@@ -29,8 +29,8 @@ Windows keyboard software for typing Rhade (Ê Đê) language characters.
 ![Keyboard Layout](./screenshots/keyboard-layout.png)
 
 ## Support
-- Issues: [GitHub Issues](https://github.com/yourusername/rhade-keyboard-windows/issues)
+- Issues: [GitHub Issues](#)
 - Email: contact@montagnards.ai
 
 ## Related
-- [Rhade IPA Chart](https://github.com/yourusername/rhade-ipa-chart)
+- [Rhade IPA Chart](https://github.com/jacksaporo/rhade-ipa-chart)
